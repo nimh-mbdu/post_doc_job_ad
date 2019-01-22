@@ -13,7 +13,7 @@ The [Data Science and Sharing Team (DSST)](http://cmn.nimh.nih.gov/dsst) is a ne
 
 ### LEARN
 
-As a trainee, you'll receive a crash course in data science best practices (*e.g.*[Data Carpentry](http://www.datacarpentry.org) and [ReproNim](http://www.reproducibleimaging.org)) as well as interfacing with specific neuroimaging repositories (*e.g.* [The Human Connectome Project](http://www.humanconnectome.org/), [OpenfMRI](http://openfmri.org), [UK Biobank](http://www.ukbiobank.ac.uk/),[The NIMH Data Archive](http://nda.nih.gov)).
+As a trainee, you'll receive a crash course in data science best practices (*e.g.*[Data Carpentry](http://www.datacarpentry.org) and [ReproNim](http://www.reproducibleimaging.org)) as well as interfacing with specific neuroimaging repositories (*e.g.* [The Human Connectome Project](http://www.humanconnectome.org/), [OpenfMRI](http://openfmri.org), [UK Biobank](http://www.ukbiobank.ac.uk/),[The NIMH Data Archive](http://nda.nih.gov)). You'll also get a chance to meet and interact with some of the most knowledgable and accomplished scientists from around the world via the many [NIH visiting speaker series](https://www.nih.gov/news-events/events). 
 
 ### BUILD
 
