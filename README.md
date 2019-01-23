@@ -27,7 +27,7 @@ Our team is committed to the [NIMH Mission](https://www.nimh.nih.gov/about/index
 
 ### EXPERIENCED
 
-In your application, please tell us about any exposure you have had to processing pipelines for biomedical imaging data (e.g. fMRI, calcium imaging, electrophysiology, etc). We also want to hear about your experience coding in languages commonly used in data science such Python or R. We're also interested in student who know a bit about front-end development and visualization with tools like Javascript or D3. Experience with distributed, high-performance computing tools such as [Docker](https://www.docker.com)/[Singularity](https://singularity.lbl.gov) and batch processing systems such as [SLURM](http://slurm.schedmd.com/) is a plus.
+In your application, please tell us about any exposure you have had to processing pipelines for biomedical imaging data (e.g. fMRI, calcium imaging, electrophysiology, etc). We also want to hear about your experience coding in languages commonly used in data science such Python or R. We're also interested in student who know a bit about front-end development and visualization with tools like Javascript and D3. Experience with distributed, high-performance computing tools such as [Docker](https://www.docker.com)/[Singularity](https://singularity.lbl.gov) and batch processing systems such as [SLURM](http://slurm.schedmd.com/) is a plus.
 
 ### PROVEN
 
