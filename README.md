@@ -37,10 +37,13 @@ Ideally we're looking for bachelor's students from [STEM](https://en.wikipedia.o
 
 We're looking for someone who is excited about advancing the cause of [Open Science](https://en.wikipedia.org/wiki/Open_science). If you've ever contributed to open source software, particpated in a citizen science project, or even fixed a typo on the wikipedia, we'd love to hear about it!
 
-# How to apply…
+# Interested?
+Please take a moment to review the [NIH Postbac Intramural Research Training Program](https://www.training.nih.gov/programs/postbac_irta) to make sure you are elibible and are happy with the (modest) compensation package.
 
-Email your resume to:
+Then email your resume to:
 
 DATASCI-JOBSEARCH@mail.nih.gov
+
+Be sure to specify that you are interested in the postbac IRTA position,.
 
 The National Institutes of Health is an equal opportunity employer. This position will be based at NIMH in Bethesda, MD.
