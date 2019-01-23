@@ -25,15 +25,9 @@ Our team is committed to the [NIMH Mission](https://www.nimh.nih.gov/about/index
 
 ## Who you are…
 
-### EXPERIENCED
-
 In your application, please tell us about any exposure you have had to processing pipelines for biomedical imaging data (e.g. fMRI, calcium imaging, electrophysiology, etc.). We also want to hear about your experience coding in languages commonly used in data science such Python or R. We're also interested in student who know a bit about front-end development and visualization with tools like JavaScript and D3. Experience with distributed, high-performance computing tools such as [Docker](https://www.docker.com)/[Singularity](https://singularity.lbl.gov) and batch processing systems such as [SLURM](http://slurm.schedmd.com/) is a plus.
 
-### PROVEN
-
-Ideally we're looking for bachelor's students from [STEM](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics) fields, but if you can prove you have an equivalent amount of data-intensive expertise with your publications, projects, or Github/Kaggle ranking, we’re all ears. 
-
-### DRIVEN
+Ideally we're looking for bachelor's students from [STEM](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics) fields, but there are many paths to data science. If you come from a less traditional field, tell us why you think you’d be a great fit for our group.
 
 We're looking for someone who is excited about advancing the cause of [Open Science](https://en.wikipedia.org/wiki/Open_science). If you've ever contributed to open source software, participated in a citizen science project, or even fixed a typo on the Wikipedia, we'd love to hear about it!
 
