@@ -13,11 +13,11 @@ The [Data Science and Sharing Team (DSST)](http://cmn.nimh.nih.gov/dsst) is a ne
 
 ### LEARN
 
-As a trainee, you'll receive a crash course in data science best practices (*e.g.*[Data Carpentry](http://www.datacarpentry.org) and [ReproNim](http://www.reproducibleimaging.org)) as well as interfacing with specific neuroimaging repositories (*e.g.* [The Human Connectome Project](http://www.humanconnectome.org/), [OpenfMRI](http://openfmri.org), [UK Biobank](http://www.ukbiobank.ac.uk/),[The NIMH Data Archive](http://nda.nih.gov)). You'll also get a chance to meet and interact with some of the most knowledgable and accomplished scientists from around the world via the many [NIH visiting speaker series](https://www.nih.gov/news-events/events). 
+As a trainee, you'll receive a crash course in data science best practices (*e.g.*[Data Carpentry](http://www.datacarpentry.org) and [ReproNim](http://www.reproducibleimaging.org)) as well as interfacing with specific neuroimaging repositories (*e.g.* [The Human Connectome Project](http://www.humanconnectome.org/), [OpenfMRI](http://openfmri.org), [UK Biobank](http://www.ukbiobank.ac.uk/), [The NIMH Data Archive](http://nda.nih.gov)). You'll also get a chance to meet and interact with some of the most knowledgeable and accomplished scientists from around the world via the many [NIH visiting speaker series](https://www.nih.gov/news-events/events). 
 
 ### BUILD
 
- You will work with a team of researchers and developers to build and deploy neuroimaging data processing pipelines for investigators within the NIMH IRP. You will collaborate with and contribute to other projects throughout the world that are building standards and tools for open and reproducible neuroscience (*e.g.* [NiPy](http://nipy.org/), [BIDS](http://bids.neuroimaging.io/), [Jupyter](http://www.jupyter.org), etc). You'll have the resources of the [NIH HPC Cluster](https://hpc.nih.gov/) at your disposal as well as additional help from the AWS cloud. Everything we make is open source and freely distributed.
+ You will work with a team of researchers and developers to build and deploy neuroimaging data processing pipelines for investigators within the NIMH IRP. You will collaborate with and contribute to other projects throughout the world that are building standards and tools for open and reproducible neuroscience (*e.g.* [NiPy](http://nipy.org/), [BIDS](http://bids.neuroimaging.io/), [Jupyter](http://www.jupyter.org), etc.). You'll have the resources of the [NIH HPC Cluster](https://hpc.nih.gov/) at your disposal as well as additional help from the AWS cloud. Everything we make is open source and freely distributed.
 
 ### SCIENCE
 
@@ -27,23 +27,23 @@ Our team is committed to the [NIMH Mission](https://www.nimh.nih.gov/about/index
 
 ### EXPERIENCED
 
-In your application, please tell us about any exposure you have had to processing pipelines for biomedical imaging data (e.g. fMRI, calcium imaging, electrophysiology, etc). We also want to hear about your experience coding in languages commonly used in data science such Python or R. We're also interested in student who know a bit about front-end development and visualization with tools like Javascript and D3. Experience with distributed, high-performance computing tools such as [Docker](https://www.docker.com)/[Singularity](https://singularity.lbl.gov) and batch processing systems such as [SLURM](http://slurm.schedmd.com/) is a plus.
+In your application, please tell us about any exposure you have had to processing pipelines for biomedical imaging data (e.g. fMRI, calcium imaging, electrophysiology, etc.). We also want to hear about your experience coding in languages commonly used in data science such Python or R. We're also interested in student who know a bit about front-end development and visualization with tools like JavaScript and D3. Experience with distributed, high-performance computing tools such as [Docker](https://www.docker.com)/[Singularity](https://singularity.lbl.gov) and batch processing systems such as [SLURM](http://slurm.schedmd.com/) is a plus.
 
 ### PROVEN
 
-Ideally we're looking for bachelor's students from [STEM](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics) fields, but if you can prove you have an equivalent amount of data-intensive expertise with your publications, projects, or github/kaggle ranking, we’re all ears. 
+Ideally we're looking for bachelor's students from [STEM](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics) fields, but if you can prove you have an equivalent amount of data-intensive expertise with your publications, projects, or Github/Kaggle ranking, we’re all ears. 
 
 ### DRIVEN
 
-We're looking for someone who is excited about advancing the cause of [Open Science](https://en.wikipedia.org/wiki/Open_science). If you've ever contributed to open source software, particpated in a citizen science project, or even fixed a typo on the wikipedia, we'd love to hear about it!
+We're looking for someone who is excited about advancing the cause of [Open Science](https://en.wikipedia.org/wiki/Open_science). If you've ever contributed to open source software, participated in a citizen science project, or even fixed a typo on the Wikipedia, we'd love to hear about it!
 
 # Interested?
-Please take a moment to review the [NIH Postbac Intramural Research Training Program](https://www.training.nih.gov/programs/postbac_irta) to make sure you are elibible and are happy with the (modest) compensation package.
+Please take a moment to review the [NIH Postbac Intramural Research Training Program](https://www.training.nih.gov/programs/postbac_irta) to make sure you are eligible and are happy with the (modest) compensation package.
 
 Then email your resume to:
 
 DATASCI-JOBSEARCH@mail.nih.gov
 
-Be sure to specify that you are interested in the postbac IRTA position,.
+Be sure to specify that you are interested in the postbac IRTA position.
 
-The National Institutes of Health is an equal opportunity employer. This position will be based at NIMH in Bethesda, MD.
+The National Institutes of Health is an equal opportunity employer.
