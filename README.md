@@ -1,44 +1,38 @@
-<img src="NIMH_logo.png" width="250"> <img src="dsst_logo_draft3.png" width="75">
+# Hiring: Postdoctoral Fellow
+
+The [National Institute of Mental Health (NIMH)](http://www.nimh.nih.gov) is the largest funder of research on mental disorders in the world, with a current budget of over $1.6B per year. Our mission is to transform the understanding and treatment of mental illnesses through basic and clinical research, paving the way for prevention, recovery, and cure. The postdoctoral community at the NIH is large (approximately 4,000) strong and vibrant. Trainees come from across the U.S. and around the world. [Salary](https://www.training.nih.gov/postdoctoral_irta_stipend_ranges) for this position is defined by type of training and years of experience. [Benefits](https://www.training.nih.gov/programs/postdoc_irp) include health insurance for the trainee and his/her family, and support for coursework related to the trainee’s research and travel to meetings is often available.
+
+At the NIMH’s Mood, Brain, and Development Unit, our central focus is understanding mood and its disorders, particularly in adolescents. We are interested in the relationship between reward processing, mood, and depression \(you can find our current thoughts [here](https://www.biorxiv.org/content/10.1101/2020.03.04.975136v1)\), as well as understanding the effects of mood states. We approach these questions with a broad range of techniques, benefitting from the unique scientific environment and resources that the NIH offers, as well as our collaborations around the world. In particular, we use longitudinal imaging protocols in fMRI and MEG at three different time scales, generative bayesian modeling, rapid development and deployment of tasks and measures via Pavlovia and Mechanical Turk. Additionally, we’ve developed a closed-loop, parametric, mood-manipulation task that produces strong changes in mood both in fMRI and over the internet (https://www.biorxiv.org/content/10.1101/815944v1). We are a team that works closely together, has many regular science and social meetings and collaborates extensively with others in and out of NIH.
+<p align="center">
+	<img src="Group_Photo_2019.png" width="400">  
+	<em>The people of the Mood, Brain, and Development Unit.</em>
+</p>
+
+We have a particularly close collaboration with the [NIMH Machine Learning Team](https://cmn.nimh.nih.gov/mlt) and there are opportunities for co-mentorship on projects with a computational focus.
+
+<p align="center">
+	<img src="mbdu_and_mlt.png" width="400">  
+	<em>Collaboration with the Machine Learning Team</em>
+</p>
 
 
-# Hiring: Data Engineer
+## Qualifications:
+We have multiple positions to fill and are looking for candidates with strengths in at least one of the following areas:
+* Generative models of cognition
+* Longitudinal neuroimaging studies of development
+* Mood and mood disorders
 
-The [National Institute of Mental Health (NIMH)](http://www.nimh.nih.gov) is the largest funder of research on mental disorders in the world, with a current budget of over $1.6B per year. Our mission is to transform the understanding and treatment of mental illnesses through basic and clinical research, paving the way for prevention, recovery, and cure. The NIH is a highly rated employer at [glassdoor.com](https://www.glassdoor.com/Overview/Working-at-NIH-EI_IE11709.11,14.htm) with very competitive salary and benefits packages.
+All candidates should have programming skills in R, Python, or Matlab. Experience with open-science practices, code and data sharing, and open-source tools. Cognitive neuroscientists, engineers and other candidates with strong numerical and computational skills are particularly encouraged to apply.
 
-The [Data Science and Sharing Team (DSST)](http://cmn.nimh.nih.gov/dsst) is a new group created to develop and support data sharing and other data-intensive scientific projects within the [NIMH Intramural Research Program](https://www.nimh.nih.gov/labs-at-nimh/index.shtml) (IRP). Working closely with the [NIH Data Science Community](https://datascience.nih.gov/) the goal of the DSST is to make the NIMH IRP a leader in open science and data sharing practices. We are looking for a talented Data Curator to add to our team. Typical compensation for NIH staff is available at [Glassdoor](https://www.glassdoor.com/Salaries/staff-scientist-salary-SRCH_KO0,15.htm).
-
-## What you’ll do…
-
-### BUILD
-
-You will work with a team of researchers and developers to build and deploy neuroimaging data processing pipelines for investigators within the NIMH IRP. You will collaborate with and contribute to other projects throughout the world that are building standards and tools for open and reproducible neuroscience (*e.g.* [NiPy](http://nipy.org/), [BIDS](http://bids.neuroimaging.io/), [Jupyter](http://www.jupyter.org), etc). You'll have the resources of the [NIH HPC Cluster](https://hpc.nih.gov/) at your disposal as well as additional help from the AWS cloud. Everything we make is open source and freely distributed.
-
-### TEACH
-
-You will work to bolster data science skills within the NIMH IRP by teaching courses to scientists on best data practices (*e.g.*[Data Carpentry](http://www.datacarpentry.org) and [ReproNim](http://www.reproducibleimaging.org)) as well as interfacing with specific neuroimaging repositories (*e.g.* [The Human Connectome Project](http://www.humanconnectome.org/), [OpenNeuro](http://openneuro.org), [UK Biobank](http://www.ukbiobank.ac.uk/),[The NIMH Data Archive](http://nda.nih.gov)).
-
-### STANDARDIZE
-
-Our team is committed to the [NIMH Mission](https://www.nimh.nih.gov/about/index.shtml) of understanding and treating mental illness and we believe open, clean data (and lots of it) is crucial to realizing that mission. You'll be standarizing these datasets to make those models work better as well as contibuting to better standards in our field (e.g. [BIDS](https://bids.neuroimaging.io), [NIDM](http://nidm.nidash.org/), [RDOC](https://www.nimh.nih.gov/research/research-funded-by-nimh/rdoc/index.shtml), [NIH Strategic Data Plan](https://datascience.nih.gov/strategicplan) etc.), You also will work closely with (and sit next to) the [Machine Learning Team](http://cmn.nimh.nih.gov/mlt) who are using these data to build the models needed to understand complex brain function and disease.
-
-## Who you are…
-
-### TRAINED
-
-We would like to see a recent degree (BS, MS, or PhD) in a [STEM](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics) field. It's fine if you're fresh out or early in your career. Ideally, you should be comfortable building processing pipelines for complex biomedical imaging data (e.g. fMRI, calcium imaging, electrophysiology, etc.) but other knowledge-domains will be considered. Please tell us about (or show us) a large, messy dataset that you have conquered.
-
-### EXPERIENCED
-
-You should have experience coding in modern languages currently used in data-intensive, scientific computing (e.g. Python or R) and version control systems like git.  Experience with distributed, high-performance computing tools such as [Docker](https://www.docker.com)/[Singularity](https://singularity.lbl.gov) and batch processing systems such as [SLURM](http://slurm.schedmd.com/) is a plus. So is experience with front-end development and visualization with Javascript. Please provide some concrete examples of your code, ideally checked in to an online repository like Github or BitBucket.
-
-### DRIVEN
-
-We're looking for someone who's motivated to develop and research their own ideas. You should be willing and able to argue for the priorities you think the team should focus on, and work together to achieve those goals. You should be a self-learner and a self-starter. Please provide some examples of things you have worked on independently. 
 
 # How to apply…
 
-Email your resume, a short cover letter, and a code sample (or URL) that demonstrates you are all three of the above to:
+Email your resume, a short cover letter, and optionally, a link to your github repository and/or google scholar profile to:
 
-DATASCI-JOBSEARCH@mail.nih.gov
+Argyris.Stringaris@nih.gov
 
-The National Institutes of Health is an equal opportunity employer. This position will be based at NIMH in Bethesda, MD via a third party contracting firm.
+The National Institutes of Health is an equal opportunity employer. This position will be based at NIMH in Bethesda, MD.
+
+<p align="center">
+	<img src="NIMH_logo.png" width="250">
+</p>
