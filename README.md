@@ -4,14 +4,16 @@ The [National Institute of Mental Health (NIMH)](http://www.nimh.nih.gov) is the
 
 At the NIMH’s Mood, Brain, and Development Unit, our central focus is understanding mood and its disorders, particularly in adolescents. We are interested in the relationship between reward processing, mood, and depression \(you can find our current thoughts [here](https://www.biorxiv.org/content/10.1101/2020.03.04.975136v1)\), as well as understanding the effects of mood states. We approach these questions with a broad range of techniques, benefitting from the unique scientific environment and resources that the NIH offers, as well as our collaborations around the world. In particular, we use longitudinal imaging protocols in fMRI and MEG at three different time scales, generative bayesian modeling, rapid development and deployment of tasks and measures via Pavlovia and Mechanical Turk. Additionally, we’ve developed a closed-loop, parametric, mood-manipulation task that produces strong changes in mood both in fMRI and over the internet (https://www.biorxiv.org/content/10.1101/815944v1). We are a team that works closely together, has many regular science and social meetings and collaborates extensively with others in and out of NIH.
 <p align="center">
-	<img src="Group_Photo_2019.png" width="400">  
+	<img src="Group_Photo_2019.jpg" width="400">  
+
 	<em>The people of the Mood, Brain, and Development Unit.</em>
 </p>
 
 We have a particularly close collaboration with the [NIMH Machine Learning Team](https://cmn.nimh.nih.gov/mlt) and there are opportunities for co-mentorship on projects with a computational focus.
 
 <p align="center">
-	<img src="mbdu_and_mlt.png" width="400">  
+	<img src="mbdu_and_mlt.jpg" width="400">  
+	
 	<em>Collaboration with the Machine Learning Team</em>
 </p>
 
